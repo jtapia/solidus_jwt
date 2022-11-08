@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'spree/core'
+require 'solidus_jwt'
 
 module SolidusJwt
   class Engine < Rails::Engine
